@@ -4,10 +4,10 @@ public class MainStackString {
 public static void main(String[] args) {
 		classstackstring st= new classstackstring();
 		
-		st.push("ISMAIL");
+		st.push("MUH ABRAR AKBAR T");
     st.push("UMAR");
-		st.push("RIFAL");
-		st.push("MAIL");
+		st.push("ABRAR");
+		st.push("AKBAR");
 		
 		String d0=st.pop();
 		System.out.println(d0);
